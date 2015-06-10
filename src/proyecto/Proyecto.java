@@ -3,7 +3,7 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
-package practica1;
+package proyecto;
 
 import java.util.Scanner;
 
@@ -12,7 +12,7 @@ import java.util.Scanner;
  * @author naul
  */
 
-public class Practica1 {
+public class Proyecto {
 
     /**
      * @param args the command line arguments

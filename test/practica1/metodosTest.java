@@ -5,6 +5,7 @@
  */
 package practica1;
 
+import proyecto.metodos;
 import org.junit.After;
 import org.junit.AfterClass;
 import org.junit.Before;
